@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+div {
+    width: 50%;
+    height: auto;
+    margin-bottom: 2rem;
+}
+
 h1 {
     font-weight: 400;
 }
@@ -19,4 +25,5 @@ h3 {
 p {
     font-weight: 2px;
     letter-spacing: 2px;
+    line-height: 1.5rem;
 }
